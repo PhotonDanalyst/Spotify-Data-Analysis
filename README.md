@@ -30,3 +30,5 @@ From the screens, the key problems solved are:
 •	Trend visibility missing → Popularity and distinct songs trends are shown over time (monthly & yearly).
 •	Artist vs Song level insights not connected → Drill-down pages for Artists and Songs connect overview insights to detailed records.
 •	Decision-making gaps → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
+
+I invite you to explore the Spotify Dashboard yourself with this link below: https://app.powerbi.com/view?r=eyJrIjoiYjViZDI1MTktMTAyOC00ZjRmLWFiOTMtODA4Mjk5MDI0YTlkIiwidCI6Ijc5NjJkODZkLTFmMWItNDVjMi1hYjU3LWM2NzgwOTJmMjVmYyJ9
